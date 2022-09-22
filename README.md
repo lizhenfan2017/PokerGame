@@ -1,5 +1,5 @@
 # PokerGame
-This is a simple demo for two players to get arbitrary number of pokers on arbitrary row where there may contain three pokers, five pokers or seven pokers.
+This is a simple demo for two players to get arbitrary number of pokers on arbitrary row where there may contain three pokers, five pokers or seven pokers on some round.
 
 拿纸牌游戏的解决思路如下：
 1、建立一个基于.NET6的PokerGame解决方案，该方案包含两个工程Poker.Core和Poker.Demo。
